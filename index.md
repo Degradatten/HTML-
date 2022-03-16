@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Degradatten/HTML-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Degradatten/HTML-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My homework</title>
+</head>
+<body>
+    <div>
+        <img src="https://wayup.in/courses/course10/lesson2/logo.jpg" alt="Логотип WayUp">
+    </div>
+    <section>
+        <h1>Вступление H1</h1>
+    <p>Это текст моего первого домашнего задания.</p>
+    <p>Не верится, но мне уже удаётся писать свой первый код на HTML.</p>
+    </section>
+   <section>
+       <h2>Что дальше? H2</h2>
+       Дальше, я буду получать всё больше и больше опыта в разработке сайтов, чтобы достичь новых вершин! <a href="https://www.google.ru">Прочитать больше в Google</a>
+   </section>
+   <section>
+       <h2>Что я буду уметь? H2</h2>
+       <p>Я смогу создавать вот такие замечательные формы:</p>
+       <input type="text" placeholder="Имя">
+       <input type="email" placeholder="E-mail">
+       <input type="tel" placeholder="Телефон">
+       <button type="submit">Отправить форму</button>
+       <p>А тажже, я научусь создавать списки:</p>
+       <Ul>
+           <li>С одном пунктом</li>
+           <li>С несколькими пунктами</li>
+           <li>И даже с тремя отдельными пунктами</li>
+       </Ul>
+   </section>
+   <section>
+       <h2>Отличное начало! H2</h2>
+       <a href="https://wayup.in/cabinet/course10-36-wave/unit1/lesson1">Перейти на страницу первого занятия курса</a>
+   </section>
+</body>
+</html>
